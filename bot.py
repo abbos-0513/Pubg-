@@ -13,7 +13,7 @@ TOKEN = "7712836266:AAFLRtTf67NHkeoQh9AXfNscJvgReBL2XEU"
 ADMIN_ID = 8250478755
 CHANNEL_USERNAME = "@abdurazoqov606"
 CREATOR_USERNAME = "@abdurozoqov_edits"
-RENDER_URL = "https://SIZNING-RENDER-APP-NOMINGIZ.onrender.com" # Render linkini qo'ying!
+RENDER_URL = "https://pubg-yyas.onrender.com" # Render linkini qo'ying!
 
 # --- STATISTIKA UCHUN XOTIRA ---
 # Bot o'chib yonsa bu raqamlar 0 ga tushadi (Renderda fayl saqlab bo'lmaydi)
